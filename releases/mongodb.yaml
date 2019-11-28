@@ -15,7 +15,7 @@ spec:
     version: 4.9.0
   values:
     image:
-      repository: bitnami/mongodb
+      repository: quay.io/domix/mongodb
       tag: 4.0.3
     usePassword: false
     persistence:
